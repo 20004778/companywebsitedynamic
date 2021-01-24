@@ -147,8 +147,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![output](./static/img/Home(2).png)
 ![output](./static/img/Products.png)
-![output](./static/img/people(2).png)
-![output](./static/img/contactus.png)
+![output](./static/img/People(2).png)
+![output](./static/img/contact.png)
 
 ## ADMINPAGE:
 ![output](./static/img/Home(2).png)
