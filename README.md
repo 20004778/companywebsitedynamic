@@ -146,18 +146,26 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![output](./static/img/Home(2).png)
+
 ![output](./static/img/Products.png)
+
 ![output](./static/img/People(2).png)
+
 ![output](./static/img/contact.png)
 
 ## ADMINPAGE:
 ![output](./static/img/Home(2).png)
+
 ![output](./static/img/Products.png)
+
 
 ## CODE VALIDATION REPORT:
 ![output](./static/img/homeval.png)
+
 ![output](./static/img/productsval.png)
+
 ![output](./static/img/peopleval.png)
+
 ![output](./static/img/contactval.png)
 
 ## RESULT:
