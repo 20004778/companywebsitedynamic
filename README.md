@@ -145,20 +145,20 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![output](./static/img/home.jpg)
-![output](./static/img/product.jpg)
-![output](./static/img/people.jpg)
-![output](./static/img/contactus.jpg)
+![output](./static/img/home.png)
+![output](./static/img/product.png)
+![output](./static/img/people.png)
+![output](./static/img/contactus.png)
 
 ## ADMINPAGE:
-![output](./static/img/home.jpg)
-![output](./static/img/product.jpg)
+![output](./static/img/home.png)
+![output](./static/img/product.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/home.val.jpg)
-![output](./static/img/product.val.jpg)
-![output](./static/img/people.val.jpg)
-![output](./static/img/contact.val.jpg)
+![output](./static/img/home.val.png)
+![output](./static/img/product.val.png)
+![output](./static/img/people.val.png)
+![output](./static/img/contact.val.png)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://surya.student.saveetha.in:8000/. HTML code is validated
