@@ -1,0 +1,18 @@
+{% extends "website/base.html" %}
+
+{% block content %}
+    <div class="peoplecontent">
+        <h1>Chief Officer's</h1>
+    </div>
+    <div class="crewmembers">
+        {% for people in peoples %}
+        <div class="crewmember">
+            <div class="memberimage">
+                <img src="{{ people.photo.url }}" alt="peopleimage" width="180" height="250">
+            </div>
+            <div class="membername"><h2>{{ people.Membername }}</h2></div>
+            <div class="designation"><h3>({{ people.Designation }})</h3></div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock  %}
